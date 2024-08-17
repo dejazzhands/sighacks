@@ -1,3 +1,2 @@
-- [Home](./README.md)
 - [Get Started](./get_started.md)
-- [ACM Calendar](./calendar.md)
+- [Events](./events/README.md)

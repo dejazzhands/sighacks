@@ -4,7 +4,7 @@
 
 run this command in the root directory:
 ```
-docsify serve content
+docsify serve docs
 ```
 ## how to start
 
